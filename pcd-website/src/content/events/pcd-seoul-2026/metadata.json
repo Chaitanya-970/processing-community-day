@@ -15,7 +15,7 @@
   "organization_type": "School, university, library",
   "online_event": false,
   "event_url": "",
-  "event_name": "PCD @ Seoul 2026",
+  "event_name": "PCD @ Seoul",
   "event_location": {
     "address": "Sogang University, Seoul",
     "plus_code": "8Q98HW2V+H6"
@@ -28,10 +28,12 @@
     "Show-and-tell",
     "Hands-on workshops",
     "Exhibition",
+    "Creative coding jams or hack sessions",
     "Student project presentations",
+    "Screening",
     "Other"
   ],
-  "event_page_url": "",
+  "event_page_url": "https://pcd2026.creative-computing.org/",
   "forum_thread_url": "https://discourse.processing.org/t/pcd-seoul-2026/48243",
   "city": "Seoul",
   "country": "South Korea",
