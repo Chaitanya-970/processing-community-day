@@ -1,7 +1,14 @@
 {
   "id": "pcd-denver-2026",
   "uid": "155d825",
-  "organizers": [],
+  "organizers": [
+    {
+      "name": "Norton King"
+    },
+    {
+      "name": "Gus Becker"
+    }
+  ],
   "primary_contact": {
     "name": "Norton King",
     "email": "nortonking@hey.com"
@@ -17,11 +24,11 @@
     "plus_code": "85FPQX5Q+C5"
   },
   "event_date": "2026-11-08",
-  "event_start_time": "",
-  "event_end_time": "",
+  "event_start_time": "11:00",
+  "event_end_time": "16:45",
   "event_short_description": "",
   "event_activities": [],
-  "event_page_url": "",
+  "event_page_url": "https://www.meetup.com/creative-code-denver/events/316977377/",
   "forum_thread_url": "https://discourse.processing.org/t/pcd-denver-2026/48143",
   "city": "Denver",
   "country": "United States",
