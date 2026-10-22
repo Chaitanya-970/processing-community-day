@@ -1,0 +1,41 @@
+{
+  "id": "split-repeat-paint",
+  "title": "SPLIT/ REPEAT/ PAINT",
+  "topic": "An introduction to creating abstract city silhouettes using recursion",
+  "created_by": "Murat atimtay",
+  "summary": "Generative City Silhouettes with p5.js",
+  "downloads": [
+    {
+      "file": "Split_repeat_paint.pdf",
+      "file_size": "360 kB",
+      "role": "reader-order"
+    },
+    {
+      "file": "Split_Repeat_Paint_foldable.pdf",
+      "file_size": "322.4 kB",
+      "role": "print-ready"
+    }
+  ],
+  "license": "CC BY-SA 4.0",
+  "intake": {
+    "issue_number": 373,
+    "submitted_by_github": "atimtakus",
+    "submitted_date": "2026-10-22",
+    "maintainer_notes": "topic: Recursion and Aerial perspective using HSB color space"
+  },
+  "tags": [
+    "beginner",
+    "p5.js",
+    "recursion"
+  ],
+  "languages": [
+    "English"
+  ],
+  "created_by_url": "https://www.atimtay.xyz/",
+  "cover": {
+    "src": "cover.jpg",
+    "alt": "SPLIT/ REPEAT/ PAINT"
+  },
+  "activity_type": "Workshop, self-guided activity,",
+  "duration": "60-90 minutues"
+}
