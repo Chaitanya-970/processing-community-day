@@ -3,47 +3,44 @@
   "uid": "ff3d33f",
   "organizers": [
     {
-      "name": "[JuanFuent.es](https://www.instagram.com/juanfuent.es/)"
+      "name": "Juan Fuentes"
     },
     {
-      "name": "[Andrew Alva](https://www.instagram.com/andrew__alva/)"
+      "name": "Andrew Alva"
     },
     {
-      "name": "[Andrés Ochoa](https://www.instagram.com/typebrain/)"
+      "name": "Andrés Ochoa"
     },
     {
-      "name": "[Eli Ramos](https://www.instagram.com/_elibbit_/)"
+      "name": "Eli Ramos"
     }
   ],
   "primary_contact": {
-    "name": "JuanFuent.es",
+    "name": "Juan Fuentes",
     "email": "input@juanfuent.es"
   },
   "organization_name": "Letrismo",
-  "organization_url": "https://equills.letrismo.com",
-  "organization_type": "Meetup, code club, community group",
+  "organization_url": "http://calli-graph.letrismo.com/",
+  "organization_type": "School, university, library",
   "online_event": false,
   "event_url": "",
-  "event_name": "PCD @ Mexico City",
+  "event_name": "PCD @ Mexico City · 〈calli-graph〉 Neo Góticas",
   "event_location": {
-    "address": "",
-    "plus_code": "76F2CVM8+49"
+    "address": "CENTRO · Aula B600 · Av. Constituyentes 455, CDMX, México",
+    "plus_code": "76F2CQ3W+WC"
   },
-  "event_date": "",
-  "event_start_time": "",
-  "event_end_time": "",
-  "event_short_description": "A Mexico City gathering around p5.js, digital calligraphy, and experimental/creative writing code tools.",
+  "event_date": "2026-11-06",
+  "event_start_time": "18:00",
+  "event_end_time": "21:00",
+  "event_short_description": "Encuentro sobre caligrafía digital y código",
   "event_activities": [
-    "Show-and-tell",
-    "Hands-on workshops",
     "Live coding",
-    "Beginner introductions to Processing or p5.js",
-    "Creative coding jams or hack sessions",
-    "Other"
+    "Exhibition",
+    "Creative coding jams or hack sessions"
   ],
-  "event_page_url": "https://letrismo.github.io/calli-graph/",
+  "event_page_url": "https://calli-graph.letrismo.com",
   "forum_thread_url": "https://discourse.processing.org/t/pcd-mexico-2026/48924",
-  "city": "CDMX",
+  "city": "Ciudad de México",
   "country": "México",
   "placeholder": false,
   "intake": {
